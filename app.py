@@ -1,4 +1,3 @@
-//Python Task Manager
 from flask import Flask, jsonify
 
 app = Flask(__name__)
